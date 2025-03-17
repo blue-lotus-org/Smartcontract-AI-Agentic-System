@@ -23,7 +23,7 @@ Smartcontract-AI-Agentic-System is a **FOSS (Free and Open Source Software) proj
 ## Installation & Usage
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/Smartcontract-AI-Agentic-System.git
+git clone https://github.com/blue-lotus-org/Smartcontract-AI-Agentic-System.git
 cd Smartcontract-AI-Agentic-System
 
 # Install dependencies
