@@ -60,3 +60,4 @@ Join our community for discussions, improvements, and collaboration!
 
 **Disclaimer**: This is a FOSS under MIT. You are feel free to use, modify, and distribute at your own risk of knowledge.
 
+**Credits**: [Blue Lotus](https://lotuschain.org) , Mistral AI
