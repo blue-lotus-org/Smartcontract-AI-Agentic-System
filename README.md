@@ -57,8 +57,6 @@ This project is licensed under the **MIT License** – free to use, modify, and 
 ## Contact & Community
 Join our community for discussions, improvements, and collaboration!
 - GitHub Issues: [https://github.com/blue-lotus-org/Smartcontract-AI-Agentic-System/issues](https://github.com/blue-lotus-org/Smartcontract-AI-Agentic-System/issues)
-- Discord: [Invite Link](#)
-- Twitter: [@yourhandle](#)
 
 🚀 **Let’s build secure smart contracts with AI!**
 
